@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="https://kolektiva.social/@Acestream_spanish its free" group-title="amateur",https://kolektiva.social/@Acestream_spanish its free
+http://192.168.1.41:6878/ace/getstream?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 tvg-name="Furbol2" group-title="amateur",Furbol2
+http://192.168.1.41:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5ff&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
+#EXTINF:-1 tvg-name="https://kolektiva.social/@Acestream_spanish its free" group-title="amateur",https://kolektiva.social/@Acestream_spanish its free
+http://192.168.1.41:6878/ace/getstream?id=05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
